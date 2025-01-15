@@ -1,2 +1,2 @@
 # ED-2024.2
-Códigos dos questionários de ED em Python
+Códigos de ED em Python
